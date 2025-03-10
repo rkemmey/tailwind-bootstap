@@ -6,6 +6,7 @@ import axios from "axios";
 import { Card, Button, Spinner } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "tailwindcss/tailwind.css";
+import tailwindcss from '@tailwindcss/vite'
 
 function App() {
   //      getter         setter             init
